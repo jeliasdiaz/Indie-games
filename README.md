@@ -1,2 +1,2 @@
 # Indie-games
-Enlace a la web: https://cloud-8.netlify.app
+Enlace a la web: https://indie-games.netlify.app/
